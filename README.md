@@ -23,9 +23,8 @@ The data is sorted by father's height and contains no missing values.
 
 #### Theoretical Model
 A multiple linear regression model was applied:
-\[
+
 Y = \beta_0 + \beta_1 \times X_1 + \beta_2 \times X_2 + \beta_3 \times X_3 + \beta_4 \times X_4 + \epsilon
-\]
 Where:
 - \(Y\) is the dependent variable (child's height).
 - \(\beta_0\) is the intercept.
