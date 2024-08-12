@@ -41,9 +41,9 @@ The number of children was excluded as it had no significant impact.
 
 #### Final Model
 The final regression model is:
-\[
-Y = 15.55 + 0.40 \times \text{Father's Height} + 0.32 \times \text{Mother's Height} + 5.21 \times \text{Gender (Male = 1)}
-\]
+
+Y = 15.55 + 0.40 * Father's Height + 0.32 Mother's Height + 5.21 Gender (Male = 1)
+
 
 This model indicates that the child's height is significantly influenced by the height of the parents and the gender of the child.
 
