@@ -48,7 +48,8 @@ Y = 15.55 + 0.40 \times \text{Father's Height} + 0.32 \times \text{Mother's Heig
 This model indicates that the child's height is significantly influenced by the height of the parents and the gender of the child.
 
 # Report
-## French version: https://studenthcmusedu-my.sharepoint.com/:b:/g/personal/21126021_student_hcmus_edu_vn/EXJyKPukN3xEg5gPX8w3BBIBNwkaA13XcfXcGHmyXQjp-Q?e=dkZGNR
+## French version: 
+https://studenthcmusedu-my.sharepoint.com/:b:/g/personal/21126021_student_hcmus_edu_vn/EXJyKPukN3xEg5gPX8w3BBIBNwkaA13XcfXcGHmyXQjp-Q?e=dkZGNR
 ## English version: (COMING SOON) 
 
 
