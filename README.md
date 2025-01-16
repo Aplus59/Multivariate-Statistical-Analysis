@@ -50,7 +50,9 @@ This model indicates that the child's height is significantly influenced by the 
 # Report
 ## French version: 
 https://studenthcmusedu-my.sharepoint.com/:b:/g/personal/21126021_student_hcmus_edu_vn/EXJyKPukN3xEg5gPX8w3BBIBNwkaA13XcfXcGHmyXQjp-Q?e=dkZGNR
-## English version: (COMING SOON) 
+## English version: 
+https://studenthcmusedu-my.sharepoint.com/:b:/g/personal/21126021_student_hcmus_edu_vn/EZ_pJPWNpTFKlPDdEl0fI8YBA1IWKC2aXP-TPWzmxiXIsA?e=0VA69a
+
 
 
 
